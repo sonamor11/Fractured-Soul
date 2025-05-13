@@ -1,16 +1,38 @@
 ea4bc82a6ad023ab7ee23ee620429895
-::res://::1747148696
+::res://::1747156929
 character_body_2d.gd::GDScript/GDScript::7490661741249453628::1747074526::0::1::::<>CharacterBody2D<><>0<>0<><>::
-icon.svg::CompressedTexture2D/CompressedTexture2D::727678754256246136::1747072170::1747072175::1::::<><><>0<>0<>50390f8b86c1e8d8be1a1d21be9fffa8<>res://.godot/imported/icon.svg-218a8f2b3041327d8a5756f3a245f83b.ctex::
-player.tscn::PackedScene::4872282910502480621::1747146547::0::1::::<><><>0<>0<><>::uid://6bb4xuadfr75::::res://Player/Scripts/player.gd<>uid://b1rinqk7bl6db::::res://Player/Sprites/Aeroplayer.png<>uid://bcy6jm3ah6cqx::::res://Player/Scripts/player_state_machine.gd
-playground.tscn::PackedScene::6854857054518164569::1747147061::0::1::::<><><>0<>0<><>::uid://cbof11th4v5gr::::res://player.tscn<>uid://0qygurkp15nn::::res://Player/Scripts/colorChange.gd<>uid://2fyqkkxolnd2::::res://Tile Maps/grass_good_now.tscn
+icon.svg::CompressedTexture2D/CompressedTexture2D::727678754256246136::1747072170::1747152803::1::::<><><>0<>0<>50390f8b86c1e8d8be1a1d21be9fffa8<>res://.godot/imported/icon.svg-218a8f2b3041327d8a5756f3a245f83b.ctex::
+::res://Assets/::1747152404
+::res://Assets/background/::1747153071
+main_screen_hub_upscaled.png::CompressedTexture2D/CompressedTexture2D::2814495845565992409::1747152404::1747153071::1::::<><><>0<>0<>efbc2b5844d0b3f0e1bc1758ab10252d<>res://.godot/imported/main_screen_hub_upscaled.png-403274b3574226ba30b29fc72ab8f474.ctex::
+rock.png::CompressedTexture2D/CompressedTexture2D::5304580508632482859::1747152404::1747153070::1::::<><><>0<>0<>de000249a5dbbbd78cd3fbeb79266227<>res://.godot/imported/rock.png-1ccf375060cebc34d3a7fb55626c80a3.ctex::
+ui stuff-Sheet.png::CompressedTexture2D/CompressedTexture2D::7103336203148714780::1747152404::1747153070::1::::<><><>0<>0<>28c0568441d183fec54b64bcabdf06a6<>res://.godot/imported/ui stuff-Sheet.png-9fe73e9ef1dd81eeb1bb61f6cdf69042.ctex::
+Unknown-13.jpg::CompressedTexture2D/CompressedTexture2D::3317385715778560857::1747152404::1747153070::1::::<><><>0<>0<>1eeb4fa36f1ff35a4ec54a38b04b9aaf<>res://.godot/imported/Unknown-13.jpg-4eda1a12ae339f201dcd89533ec6e004.ctex::
+Unknown-16.jpg::CompressedTexture2D/CompressedTexture2D::1761011753940184674::1747152404::1747153070::1::::<><><>0<>0<>47978685b24ac84fe159dc7fd0b251b6<>res://.godot/imported/Unknown-16.jpg-b5391bf55dc88866ec7900b84f5f8e8e.ctex::
+Unknown-18.jpg::CompressedTexture2D/CompressedTexture2D::1076392661691034000::1747152404::1747153070::1::::<><><>0<>0<>c7841bb30134b39924a8d5b4d21e7c7e<>res://.godot/imported/Unknown-18.jpg-2183b5e6764950aa3b69e3465cdecae0.ctex::
+Unknown-19.jpg::CompressedTexture2D/CompressedTexture2D::8568327356299747896::1747152404::1747153070::1::::<><><>0<>0<>5761d892fd70084678dec4dd0d4d1ab5<>res://.godot/imported/Unknown-19.jpg-36e6bc7ae1371473704867c6da37cf05.ctex::
+::res://Assets/Sprites/::1747153071
+Aero(player).png::CompressedTexture2D/CompressedTexture2D::3071045166892502166::1747152404::1747153070::1::::<><><>0<>0<>618033a26a4a51ed0b4b6bc039009383<>res://.godot/imported/Aero(player).png-c8feaa4af2cd80ac5b206c2bb076007b.ctex::
+baloon.png::CompressedTexture2D/CompressedTexture2D::8460160375241656566::1747152404::1747153070::1::::<><><>0<>0<>c4fdc1dd7b78d713653384a17d15d325<>res://.godot/imported/baloon.png-778b2b5d75e504f9c63e581b0738a51d.ctex::
+bushes.png::CompressedTexture2D/CompressedTexture2D::8066390394739096502::1747152404::1747153070::1::::<><><>0<>0<>a8a8c358f451cf79084a84819cb7e0ad<>res://.godot/imported/bushes.png-f5a001e2a87da59867614d56ea01c766.ctex::
+football bal.png::CompressedTexture2D/CompressedTexture2D::1993459281270640736::1747152404::1747153070::1::::<><><>0<>0<>12d4e03e0982d9b16044f0bb410c7434<>res://.godot/imported/football bal.png-d1643abaed299e0da38991719ed16537.ctex::
+grass good now.png::CompressedTexture2D/CompressedTexture2D::4278258587228895597::1747152404::1747153070::1::::<><><>0<>0<>200cc49bb173583b958fa786ba9d0a78<>res://.godot/imported/grass good now.png-b05634a83483c79d2cd9fde5dc63229c.ctex::
+journal.png::CompressedTexture2D/CompressedTexture2D::6506813833266921202::1747152404::1747153070::1::::<><><>0<>0<>55482327e645c71f6539c3add9a3c306<>res://.godot/imported/journal.png-c6902878d37927ad2cf1fa6c436f9153.ctex::
+key.png::CompressedTexture2D/CompressedTexture2D::5154196572990892591::1747152404::1747153070::1::::<><><>0<>0<>1d017a9f692c7bf35ba76c313fa762f6<>res://.godot/imported/key.png-61242fc10ac0712723a4c273e448a900.ctex::
+main_screen_hub_upscaled.png::CompressedTexture2D/CompressedTexture2D::3947402911315473166::1747152404::1747153071::1::::<><><>0<>0<>f216560c7c3046481ca509fda546a37f<>res://.godot/imported/main_screen_hub_upscaled.png-b214a118122a551142d081a7b2054315.ctex::
+painting.png::CompressedTexture2D/CompressedTexture2D::5325366476644098421::1747152404::1747153070::1::::<><><>0<>0<>dd24e1a109baa8e109d77cda06492cf8<>res://.godot/imported/painting.png-eef3a12f5ee4727980fdf5f8cc56ec0c.ctex::
+phone.png::CompressedTexture2D/CompressedTexture2D::3769588079538602113::1747152404::1747153070::1::::<><><>0<>0<>d0920b1aba26db77abb5899e8abaa717<>res://.godot/imported/phone.png-41ed4768123fcbbfa0bc049e31f9a292.ctex::
+rock.png::CompressedTexture2D/CompressedTexture2D::2083637542978207551::1747152404::1747153070::1::::<><><>0<>0<>f7cab72c25593d58906a7955309c2c55<>res://.godot/imported/rock.png-0c0219717541df45f349d6d40ca3fa00.ctex::
+tree.png::CompressedTexture2D/CompressedTexture2D::4436794718505318927::1747152404::1747153070::1::::<><><>0<>0<>be82cbb6e0c8f4a4cbb620e56c209418<>res://.godot/imported/tree.png-84aa659867a38d018c8629a9d195ae1e.ctex::
+water.png::CompressedTexture2D/CompressedTexture2D::3116518491496745547::1747152404::1747153070::1::::<><><>0<>0<>5d2455ac65a3ced0693b806010ba3f7c<>res://.godot/imported/water.png-92342baa204a618e9304a1e60ca2132f.ctex::
+winter tree.png::CompressedTexture2D/CompressedTexture2D::1574899021614468392::1747152404::1747153070::1::::<><><>0<>0<>cac1f0fd171521acd4f7748b30eabea7<>res://.godot/imported/winter tree.png-4c65908ae87ad2e18a648058e84b1ee4.ctex::
 ::res://Player/::1747076874
 ::res://Player/Scripts/::1747145541
-colorChange.gd::GDScript::1789220134809724799::1747143956::0::1::::<>Node<><>0<>0<><>::
-player.gd::GDScript::2178032274486440058::1747145541::0::1::::Player<>CharacterBody2D<><>0<>0<><>::
+colorChange.gd::GDScript/GDScript::1789220134809724799::1747143956::0::1::::<>Node<><>0<>0<><>::
+player.gd::GDScript/GDScript::2178032274486440058::1747145541::0::1::::Player<>CharacterBody2D<><>0<>0<><>::
 player_state_machine.gd::GDScript/GDScript::2578242409532805927::1747083086::0::1::::PlayerStateMachine<>Node<><>0<>0<><>::
 state.gd::GDScript/GDScript::7057436884722878856::1747083086::0::1::::State<>Node<><>0<>0<><>::
-state_idle.gd::GDScript::6259540094849122110::1747142382::0::1::::State_Idle<>Node<><>0<>0<><>::
+state_idle.gd::GDScript/GDScript::6259540094849122110::1747142382::0::1::::State_Idle<>Node<><>0<>0<><>::
 ::res://Player/Sprites/::1747072758
 Aeroplayer.png::CompressedTexture2D/CompressedTexture2D::4246934848641239243::1747072757::1747072758::1::::<><><>0<>0<>613a78a0175ee057f56e316abafd7e7e<>res://.godot/imported/Aeroplayer.png-00b2ceec9ba5670a9b3121bebcf41997.ctex::
 aerosould_updated.png::CompressedTexture2D/CompressedTexture2D::1828136336724749166::1747072466::1747072466::1::::<><><>0<>0<>4cc8531d1c68d606689e28f8677bf6d4<>res://.godot/imported/aerosould_updated.png-a10a08181ade974425c85f16ce77e76d.ctex::
@@ -27,7 +49,18 @@ rock.png::CompressedTexture2D/CompressedTexture2D::2083637542978207551::17470724
 tree.png::CompressedTexture2D/CompressedTexture2D::4436794718505318927::1747072442::1747072442::1::::<><><>0<>0<>8ae4174c47cf260be25e08e18519b72a<>res://.godot/imported/tree.png-c7d68f4f220808cc8d7a5642cf46b694.ctex::
 water.png::CompressedTexture2D/CompressedTexture2D::3116518491496745547::1747072442::1747072442::1::::<><><>0<>0<>439ca7cea4807ad7038148b4f43d28ef<>res://.godot/imported/water.png-c8f0b0eaa34a58f1782d5d34bb5ca2a0.ctex::
 winter tree.png::CompressedTexture2D/CompressedTexture2D::1574899021614468392::1747072442::1747072442::1::::<><><>0<>0<>3a2b1d620a3e5eec8ca71b35d4abe107<>res://.godot/imported/winter tree.png-f4418d018756b8b001c87bb1e9780fb0.ctex::
-::res://Tile Maps/::1747146547
-grass_good_now.tscn::PackedScene::1906906989271763277::1747146547::0::1::::<><><>0<>0<><>::uid://bv8q6awsj3xio::::res://Tile Maps/Sprites/grass_good_now.png
+::res://Scenes/::1747155291
+character_body_2d.tscn::PackedScene/PackedScene::8028955402371868206::1747152404::0::1::::<><><>0<>0<><>::uid://bh6wiya1w23gs::::res://Scripts/Aero.gd<>uid://bj0vwu8sveetq::::res://Assets/Sprites/Aero(player).png
+game.tscn::PackedScene/PackedScene::8500513896307398078::1747152404::0::1::::<><><>0<>0<><>::uid://dmnjytep5hopa::::res://Scenes/character_body_2d.tscn
+menu_screen.tscn::PackedScene::1570817708696447969::1747155291::0::1::::<><><>0<>0<><>::uid://chdup7s1r13xm::::res://Scripts/main_menu.gd<>uid://bgdmlnxrwnai8::::res://Assets/background/main_screen_hub_upscaled.png<>uid://c8g556liccf53::::res://Assets/background/ui stuff-Sheet.png
+player.tscn::PackedScene::4872282910502480621::1747155291::0::1::::<><><>0<>0<><>::uid://6bb4xuadfr75::::res://Player/Scripts/player.gd<>uid://b1rinqk7bl6db::::res://Player/Sprites/Aeroplayer.png<>uid://bcy6jm3ah6cqx::::res://Player/Scripts/player_state_machine.gd
+playground.tscn::PackedScene::6854857054518164569::1747155291::0::1::::<><><>0<>0<><>::uid://0qygurkp15nn::::res://Player/Scripts/colorChange.gd<>uid://cbof11th4v5gr::::res://Scenes/player.tscn<>uid://2fyqkkxolnd2::::res://Tile Maps/grass_good_now.tscn
+::res://Scripts/::1747154624
+Aero.gd::GDScript/GDScript::2943089621499499846::1747152404::0::1::::<>CharacterBody2D<><>0<>0<><>::
+main_menu.gd::GDScript::5271599242637288746::1747154624::0::1::::<>Control<><>0<>0<><>::
+::res://testFolder/::1747157004
+images (5).png::CompressedTexture2D::4127320503632159739::1747157004::1747157005::0::::<><><>0<>0<>bb7ea1933a331ad753a96e9039da1b60<>::
+::res://Tile Maps/::1747155291
+grass_good_now.tscn::PackedScene::1906906989271763277::1747155291::0::1::::<><><>0<>0<><>::uid://bv8q6awsj3xio::::res://Tile Maps/Sprites/grass_good_now.png
 ::res://Tile Maps/Sprites/::1747142851
 grass_good_now.png::CompressedTexture2D/CompressedTexture2D::3929537732287758122::1747142851::1747142851::1::::<><><>0<>0<>6940140971c650b27fc4454aeea5e555<>res://.godot/imported/grass_good_now.png-10e0803a6c4e8573ffbfad65f90f1a2f.ctex::
