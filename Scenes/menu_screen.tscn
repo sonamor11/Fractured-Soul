@@ -1,0 +1,56 @@
+[gd_scene load_steps=7 format=3 uid="uid://wm6exymbsixt"]
+
+[ext_resource type="Script" uid="uid://chdup7s1r13xm" path="res://Scripts/main_menu.gd" id="1_4s2ig"]
+[ext_resource type="Texture2D" uid="uid://bgdmlnxrwnai8" path="res://Assets/background/main_screen_hub_upscaled.png" id="1_f1kxn"]
+[ext_resource type="Texture2D" uid="uid://c8g556liccf53" path="res://Assets/background/ui stuff-Sheet.png" id="2_4s2ig"]
+
+[sub_resource type="AtlasTexture" id="AtlasTexture_vrhsl"]
+atlas = ExtResource("2_4s2ig")
+region = Rect2(32, 40, 32, 16)
+
+[sub_resource type="AtlasTexture" id="AtlasTexture_wvdu7"]
+atlas = ExtResource("2_4s2ig")
+region = Rect2(64, 40, 32, 16)
+
+[sub_resource type="AtlasTexture" id="AtlasTexture_kt8v0"]
+atlas = ExtResource("2_4s2ig")
+region = Rect2(32, 40, 32, 16)
+
+[node name="CanvasLayer" type="CanvasLayer"]
+
+[node name="main menu" type="Control" parent="."]
+layout_mode = 3
+anchors_preset = 15
+anchor_right = 1.0
+anchor_bottom = 1.0
+offset_left = 1.0
+offset_right = 1.0
+grow_horizontal = 2
+grow_vertical = 2
+script = ExtResource("1_4s2ig")
+
+[node name="TextureRect" type="TextureRect" parent="main menu"]
+layout_direction = 4
+layout_mode = 1
+anchors_preset = -1
+offset_right = 2560.0
+offset_bottom = 1440.0
+grow_horizontal = 2
+grow_vertical = 2
+scale = Vector2(0.452388, 0.452388)
+mouse_filter = 2
+texture = ExtResource("1_f1kxn")
+
+[node name="TextureButton" type="TextureButton" parent="main menu"]
+layout_mode = 0
+offset_left = 872.0
+offset_top = 104.0
+offset_right = 912.0
+offset_bottom = 144.0
+scale = Vector2(6.3687, 3.11364)
+texture_normal = SubResource("AtlasTexture_vrhsl")
+texture_pressed = SubResource("AtlasTexture_wvdu7")
+texture_hover = SubResource("AtlasTexture_kt8v0")
+stretch_mode = 0
+
+[connection signal="pressed" from="main menu/TextureButton" to="main menu" method="_on_texture_button_pressed"]
