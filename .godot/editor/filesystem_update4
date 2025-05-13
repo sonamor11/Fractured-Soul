@@ -1,6 +1,0 @@
-res://playground.tscn
-res://Player/Scripts/player.gd
-res://player.tscn
-res://Player/Scripts/state_idle.gd
-res://Tile Maps/grass_good_now.tscn
-res://Player/Scripts/colorChange.gd
