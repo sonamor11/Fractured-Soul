@@ -1,0 +1,19 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+uid="uid://beltkqu8tm41o"
+path="res://.godot/imported/Eternal Edge.mp3-8bec11a7dc21e1a7a28ab611669a12d2.mp3str"
+
+[deps]
+
+source_file="res://Assets/Sounds/music/Eternal Edge.mp3"
+dest_files=["res://.godot/imported/Eternal Edge.mp3-8bec11a7dc21e1a7a28ab611669a12d2.mp3str"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4

@@ -43,7 +43,7 @@ scale = Vector2(0.468164, 0.468053)
 mouse_filter = 2
 texture = ExtResource("1_f1kxn")
 
-[node name="TextureButton" type="TextureButton" parent="main menu"]
+[node name="Play" type="TextureButton" parent="main menu"]
 layout_mode = 0
 offset_left = 872.0
 offset_top = 104.0
@@ -55,4 +55,11 @@ texture_pressed = SubResource("AtlasTexture_wvdu7")
 texture_hover = SubResource("AtlasTexture_kt8v0")
 stretch_mode = 0
 
-[connection signal="pressed" from="main menu/TextureButton" to="main menu" method="_on_texture_button_pressed"]
+[node name="TextureButton" type="TextureButton" parent="main menu"]
+layout_mode = 0
+offset_left = 969.0
+offset_top = 340.0
+offset_right = 1009.0
+offset_bottom = 380.0
+
+[connection signal="pressed" from="main menu/Play" to="main menu" method="_on_texture_button_pressed"]
